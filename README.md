@@ -11,7 +11,7 @@
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-git clone https://github.com/mustafaerdogan1/kodluyoruzilkrepo
+git clone https://github.com/mustafaerdogan1/kodluyoruzilkrepo.git
 ```
 
 ## Usage
